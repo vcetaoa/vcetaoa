@@ -1,9 +1,9 @@
 ```
 > =========================================
->  SIGN OFF — 20th April 2026
+>  SIGN OFF — 20th April 2083
 >  last exam. last day. last time.
 >
->  this repo was born on 21st April 2024.
+>  this repo was born on 21st April 2081.
 >  it carried us through every lab, every exam,
 >  every panic night and every "bhai hotspot on kar"
 >
@@ -34,7 +34,7 @@
 ## `$ cat origin.txt`
 
 ```
-DATE     : April 21, 2024
+DATE     : April 21, 2081
 LOCATION : college lab. corner seat.
 REASON   : exam in 10 mins. zero preparation.
 SOLUTION : bag in corner. phone inside. hotspot on.
@@ -49,7 +49,7 @@ and that was just day one. 🫡
 ## `$ ./exam_ritual.sh`
 
 ```bash
-# THE SACRED RITUAL (2024 - 2026)
+# THE SACRED RITUAL (2081 - 2083)
 bag_corner --wall-side            # natural. casual. invisible.
 phone.hotspot --on --dnd          # silent mode. no interruptions.
 wifi.connect --silent             # connect and say nothing.
@@ -139,7 +139,7 @@ we survive again.                    ✅
 ```
 commit  [LAST_COMMIT]
 author  : vcetaoa
-date    : Sun Apr 20 2026
+date    : Sun Apr 20 2083
 message : last exam. signing off. 🫡
 
         two years ago this was a panic decision.
@@ -172,8 +172,8 @@ message : last exam. signing off. 🫡
 >  SESSION TERMINATED
 >  April 20, 2026
 >
->  started  : April 21, 2024
->  ended    : April 20, 2026
+>  started  : April 21, 2081
+>  ended    : April 20, 2083
 >  duration : 730 days of lab exam survival
 >
 >  this repo is now archived.
