@@ -1,190 +1,297 @@
+<div align="center">
+
+<!-- GLITCH HEADER -->
 ```
-> =========================================
->  SIGN OFF — 20th April 2083
->  last exam. last day. last time.
->
->  this repo was born on 21st April 2081.
->  it carried us through every lab, every exam,
->  every panic night and every "bhai hotspot on kar"
->
->  aaj officially signing off.
->  it's been one hell of a journey. 🫡
->
->  repo: INACTIVE (finally free, like us)
->  status: GRADUATED (almost)
->  feelings: 😭😎🔥
-> =========================================
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+█  ██████╗ ██╗████████╗    ██████╗ ██████╗ ██████╗ ███████╗    ██████╗  ██████╗ █
+█ ██╔════╝ ██║╚══██╔══╝   ██╔════╝██╔═══██╗██╔══██╗██╔════╝   ██╔══██╗██╔════╝ █
+█ ██║  ███╗██║   ██║      ██║     ██║   ██║██║  ██║█████╗     ██████╔╝██║  ███╗ █
+█ ██║   ██║██║   ██║      ██║     ██║   ██║██║  ██║██╔══╝     ██╔══██╗██║   ██║ █
+█ ╚██████╔╝██║   ██║      ╚██████╗╚██████╔╝██████╔╝███████╗   ██║  ██║╚██████╔╝ █
+█  ╚═════╝ ╚═╝   ╚═╝       ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝  ╚═╝ ╚═════╝ █
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
+
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=THE+REPO.+THE+MYTH.+THE+LEGEND.;Since+April+21%2C+2024.;Every+Lab.+Every+Exam.;Undefeated.+%F0%9F%AB%A1" alt="Typing SVG" />
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  ▶▶  コ ン テ ィ ニ ュ ー ?  ◀◀      INSERT COIN
+  　　 C O N T I N U E ?
+  　　　　　　　　　　
+  　 ９　　　　　　　　　　ゲームオーバー
+  　　　　　　　　　　　　ＧＡＭＥ ＯＶＥＲ
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-<br/>
+</div>
 
-![uptime](https://img.shields.io/badge/uptime-2%20years-00FF41?style=for-the-badge&logo=github&logoColor=white)
-![status](https://img.shields.io/badge/status-LEGENDARY-ff6b6b?style=for-the-badge)
-![exit](https://img.shields.io/badge/exit_code-0-00FF41?style=for-the-badge)
-![exams](https://img.shields.io/badge/exams_survived-ALL%20OF%20THEM-blue?style=for-the-badge)
+<div align="center">
+
+![COIN](https://img.shields.io/badge/　INSERT　COIN　-　コインを　いれてください　-FF0080?style=for-the-badge&labelColor=000000)
+![PLAYER](https://img.shields.io/badge/PLAYER_1-GRADUATED-00FFFF?style=for-the-badge&labelColor=000000)
+![SCORE](https://img.shields.io/badge/HI--SCORE-9999999-FFD700?style=for-the-badge&labelColor=000000)
+![CREDIT](https://img.shields.io/badge/CREDITS-0-FF0000?style=for-the-badge&labelColor=000000)
 
 </div>
 
 ---
 
-## `$ cat origin.txt`
+## `⚡ POWER ON SEQUENCE ⚡`
 
 ```
-DATE     : April 21, 2081
-LOCATION : college lab. corner seat.
-REASON   : exam in 10 mins. zero preparation.
-SOLUTION : bag in corner. phone inside. hotspot on.
-RESULT   : passed.
-DECISION : never delete this repo. ever.
-```
-
-and that was just day one. 🫡
-
----
-
-## `$ ./exam_ritual.sh`
-
-```bash
-# THE SACRED RITUAL (2081 - 2083)
-bag_corner --wall-side            # natural. casual. invisible.
-phone.hotspot --on --dnd          # silent mode. no interruptions.
-wifi.connect --silent             # connect and say nothing.
-github.open vcetaoa/<repo>        # home. sweet home.
-copy --paste --edit-variables     # not blind copy. smart copy.
-submit --act-natural              # walk up. submit. poker face.
-bag.pickup && exit 0              # out like a ghost. 😎
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  SYST3M B00T — 2 1  A P R  2 0 8 1          
+  ████████████████████░░░░░  LOADING...       
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  >> ROM CHECK.................... OK ✅      
+  >> RAM TEST...................... OK ✅      
+  >> HOTSPOT MODULE............... ONLINE ✅  
+  >> GITHUB UPLINK................ LOCKED 🔒  
+  >> TEACHER DETECTION AI......... ARMED 🔴   
+  >> BAG CONCEALMENT PROTOCOL..... ACTIVE 👜  
+  >> PRAYER SUBROUTINE............. RUNNING 🙏 
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  [!] ANOMALY DETECTED: EXAM IN 10 MINUTES    
+  [!] ZERO PREPARATION LOADED INTO MEMORY     
+  [!] INITIATING SURVIVAL MODE...             
+  >> LAUNCHING: ./exam_ritual.sh 🚀           
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▶  
 ```
 
 ---
 
-## `$ cat bag_placement.json`
-
-```json
-{
-  "corner_wall_side"  : "✅ safest. classic. 2 years approved.",
-  "under_your_seat"   : "⚠️  risky. teacher checks here too.",
-  "on_the_table"      : "❌ absolutely not.",
-  "someone_elses_bag" : "🧠 galaxy brain but coordinate first."
-}
-```
-
-`// pro tip: always DND before entering. always.`
-
----
-
-## `$ git blame --hall-of-fame`
+## `🕹️ STAGE SELECT — THE RITUAL` 
 
 ```
-🥇  the one with hotspot running from the bag
-    → without you, nothing compiles. ever.
-
-🥈  the one who shared the link before entering lab
-    → pre-game IQ. senior dev energy.
-
-🥉  the one who sat near teacher and acted confused
-    → the decoy. the distraction. the unsung hero.
+╔══════════════════════════════════════════════════════════════╗
+║  ░░░░░░░░  EXAM_RITUAL.EXE  v2.0  ░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ▓ PRESS START TO BEGIN ▓                                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [STAGE 1] ▶ BAG IN CORNER — WALL SIDE         [ ✅ CLEAR ] ║
+║  [STAGE 2] ▶ HOTSPOT: ON — DND: ARMED          [ ✅ CLEAR ] ║
+║  [STAGE 3] ▶ WIFI CONNECT — SAY NOTHING        [ ✅ CLEAR ] ║
+║  [STAGE 4] ▶ NAVIGATE → vcetaoa/<repo>         [ ✅ CLEAR ] ║
+║  [STAGE 5] ▶ COPY → PASTE → EDIT VARIABLES     [ ✅ CLEAR ] ║
+║  [STAGE 6] ▶ ALT+TAB WHEN TEACHER APPROACHES   [ ✅ CLEAR ] ║
+║  [STAGE 7] ▶ SUBMIT — POKER FACE EQUIPPED      [ ✅ CLEAR ] ║
+║  [STAGE 8] ▶ EXIT LIKE A GHOST                 [ ✅ CLEAR ] ║
+║                                                              ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  [BONUS STAGE] ▶ "BHAI LINK BHEJ" — 9:58 AM   [💎 LEGEND ] ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## `$ cat errors.log`
+## `👾 PLAYER STATS — BAG PLACEMENT TIER LIST`
 
 ```
-[CRITICAL] someone's phone rang mid exam. bag vibrated. 💀
-[ERROR]    hotspot name was "FBI Surveillance Van".     💀
-[ERROR]    copy kiya variable name bhi. teacher noticed. 💀
-[FATAL]    repo was PRIVATE on exam day. 15 people down. 💀
-[FATAL]    phone battery hit 2%. hotspot died mid-copy.  💀
-```
-
-`lesson learned: charge to 100%. set public. set DND.`
-`lesson applied: every exam after that. ✅`
-
----
-
-## `$ ping github.com` *(from inside the lab)*
-
-```
-PING github.com
-request timeout...
-request timeout...
-request timeout...
---- hotspot connected ---
-64 bytes from github.com: time=42ms  ✅
-repo loaded.                         ✅
-we survive again.                    ✅
+┌─────────────────────────────────────────────────────────────────┐
+│  ██████████████████████████████  PLACEMENT  MATRIX  ██████████  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  ■ CORNER × WALL SIDE   ████████████████████  S-TIER  ✅       │
+│    "safest. classic. 730-day field tested."                      │
+│                                                                  │
+│  ■ UNDER YOUR SEAT      ████████████░░░░░░░░  B-TIER  ⚠️       │
+│    "teacher checks here too. risky run."                         │
+│                                                                  │
+│  ■ ON THE TABLE         ░░░░░░░░░░░░░░░░░░░░  F-TIER  ❌       │
+│    "instant game over. do NOT."                                  │
+│                                                                  │
+│  ■ SOMEONE ELSE'S BAG   ???????????????????  X-TIER  🧠         │
+│    "galaxy brain strat. coordinate beforehand."                  │
+│                                                                  │
+├─────────────────────────────────────────────────────────────────┤
+│  PRO TIP ▶  DND BEFORE ENTERING.  ALWAYS.  NO EXCEPTIONS.      │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `$ crontab -l`
+## `🏆 HALL OF FAME — NAME ENTRY` 
 
-```bash
-# ran every exam day. 9:55 AM. sharp.
-0 9 * * exam   pray --hotspot-stable      \
-               --battery-full            \
-               --teacher-distracted      \
-               --github-loads-first-try  \
-               && pass_the_exam ✅
+```
+╔════════════════════════════════════════════╗
+║   ★  H I G H   S C O R E  ★               ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║                                            ║
+║   1ST  🥇 .............. AAA  9,999,999   ║
+║   THE ONE WITH HOTSPOT IN THE BAG          ║
+║   → compiler would not run without you     ║
+║                                            ║
+║   2ND  🥈 .............. BBB  8,750,000   ║
+║   THE ONE WHO SENT LINK BEFORE ENTERING    ║
+║   → pre-game IQ off the charts             ║
+║                                            ║
+║   3RD  🥉 .............. CCC  7,200,000   ║
+║   THE ONE WHO SAT NEAR TEACHER             ║
+║   → distraction specialist. unsung hero    ║
+║                                            ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║   ▶  PRESS START TO ENTER YOUR INITIALS   ║
+╚════════════════════════════════════════════╝
 ```
 
 ---
 
-## `$ git log --final-entry`
+## `💀 ERROR LOG — CRITICAL FAILURES`
 
 ```
-commit  [LAST_COMMIT]
-author  : vcetaoa
-date    : Sun Apr 20 2083
-message : last exam. signing off. 🫡
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+  ██████╗ ██╗   ██╗ ██████╗ 
+  ██╔══██╗██║   ██║██╔════╝ 
+  ██████╔╝██║   ██║██║  ███╗
+  ██╔══██╗██║   ██║██║   ██║
+  ██████╔╝╚██████╔╝╚██████╔╝
+  ╚═════╝  ╚═════╝  ╚═════╝ 
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
-        two years ago this was a panic decision.
-        today it closes as a legend.
+[!CRITICAL] phone rang mid-exam. bag vibrated. teacher turned. 💀
+            → LIVES LOST: 1
 
-        every lab. every exam. every hotspot from the bag.
-        every "bhai link bhej" on whatsapp at 9:58 AM.
-        every alt+tab when teacher walked by.
-        every variable renamed so it doesn't look copied.
+[! ERROR  ] hotspot SSID was "FBI Surveillance Van"             💀
+            → STEALTH RATING: -9999
 
-        this repo didn't just store code.
-        it stored two years of pure survival.
+[! ERROR  ] copied variable name verbatim. teacher noticed.     💀
+            → SHAME METER: ██████████ MAX
 
-        to everyone who used it — tu pass hua.
-        that's enough. that was always enough.
+[! FATAL  ] repo set to PRIVATE on exam day.                    💀
+            → 15 PLAYERS DISCONNECTED SIMULTANEOUSLY
 
-        EOF.
+[! FATAL  ] battery: 2%. hotspot died. mid-copy.                💀
+            → GAME OVER SCREEN APPEARED
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  LESSON_LOADED  ▶  charge to 100%. set PUBLIC. set DND.        
+  APPLIED?       ▶  every exam after that.  ✅                  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## `🌐 NETWORK TRACE — FROM INSIDE THE LAB`
+
+```
+                    ╔══════════════════════════════╗
+                    ║  NETWORK DIAGNOSTIC v1.0     ║
+                    ║  ━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+ [WIFI]─────────X  ║  PING github.com             ║
+                    ║                              ║
+                    ║  > request timeout...  💀    ║
+                    ║  > request timeout...  💀    ║
+                    ║  > request timeout...  💀    ║
+                    ║  > packet lost...      💀    ║
+                    ║  > teacher nearby...   🚨    ║
+                    ║                              ║
+ [BAG]───[📱]────▶ ║  -- HOTSPOT CONNECTED --     ║
+ CORNER  HOTSPOT    ║                              ║
+                    ║  64 bytes from github.com    ║
+                    ║  time = 42ms       ✅        ║
+                    ║  repo loaded.      ✅        ║
+                    ║  we survive again. ✅        ║
+                    ╚══════════════════════════════╝
+```
+
+---
+
+## `⏰ CRON — THE SACRED SCHEDULE`
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  T A S K   S C H E D U L E R   —   E X A M _ D A Y . S Y S  
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+  TRIGGER  ▶  09:55:00  —  EVERY EXAM DAY  —  2 YEARS STRAIGHT
+
+  TASK_1   ▶  pray --hotspot-stable
+  TASK_2   ▶  pray --battery-above-80
+  TASK_3   ▶  pray --teacher-distracted
+  TASK_4   ▶  pray --github-loads-first-try
+  TASK_5   ▶  pray --no-one-rats-us-out
+  ON_TRUE  ▶  pass_the_exam ✅
+  ON_FALSE ▶  pray harder and try again
+
+  STATUS   ▶  ██████████████████████  PERFECT RECORD
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+---
+
+## `📼 FINAL SAVE — LAST COMMIT`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ░  GIT LOG  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  commit  [FINAL_SAVE_STATE]                                      ║
+║  author  vcetaoa                    <survived@college.edu>       ║
+║  date    Sun Apr 20 2083            23:59:59 +0530               ║
+║  msg     last exam. signing off. 🫡                              ║
+║                                                                  ║
+║  ──────────────────────────────────────────────────────────────  ║
+║                                                                  ║
+║  two years ago this was a panic decision.                        ║
+║  today it closes as a legend.                                    ║
+║                                                                  ║
+║  every lab. every exam. every hotspot from the bag.              ║
+║  every "bhai link bhej" at 9:58 AM on whatsapp.                  ║
+║  every alt+tab when teacher walked by.                           ║
+║  every variable renamed so it doesn't look copied.               ║
+║                                                                  ║
+║  this repo didn't just store code.                               ║
+║  it stored two years of pure survival.                           ║
+║                                                                  ║
+║  to everyone who used it — tu pass hua.                          ║
+║  that's enough. that was always enough.                          ║
+║                                                                  ║
+║  ──────────────────────────────────────────────────────────────  ║
+║  730 days  ·  every semester  ·  bag in corner  ·  0 caught     ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=700&lines=April+21+2024+%E2%86%92+April+20+2026;2+years.+Every+semester.+Every+lab.;bag+in+corner.+hotspot+on.+github+open.;we+made+it+bhai.+we+actually+made+it.+%F0%9F%8E%93" alt="footer typing" />
-
-<br/>
-
 ```
-> =========================================
->  SESSION TERMINATED
->  April 20, 2026
->
->  started  : April 21, 2081
->  ended    : April 20, 2083
->  duration : 730 days of lab exam survival
->
->  this repo is now archived.
->  we made it. we actually made it. 🎓
->
->  $ shutdown -h now
-> =========================================
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                                                                    
+   ██████╗  █████╗ ███╗   ███╗███████╗                             
+  ██╔════╝ ██╔══██╗████╗ ████║██╔════╝                             
+  ██║  ███╗███████║██╔████╔██║█████╗                               
+  ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝                               
+  ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗                             
+   ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝  O V E R                   
+                                                                    
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  MACHINE ID  : vcetaoa/THIS_REPO                                   
+  BOOT DATE   : April 21, 2081                                      
+  SHUTDOWN    : April 20, 2083                                      
+  UPTIME      : 730 days · every semester · undefeated             
+  EXIT CODE   : 0  (clean shutdown. no errors. no arrests.)        
+                                                                    
+  この機械は　伝説になった。                                          
+  This machine became a legend.                                     
+                                                                    
+  [ A R C H I V E D ]   [ G R A D U A T E D ]   [ F R E E ]        
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                                                                    
+  >> we made it bhai. we actually made it. 🎓                      
+                                                                    
+  $ shutdown -h now                                                  
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
-<br/>
-
-⭐ **star this repo** — it carried your GPA. least you can do. ⭐
+![STAR](https://img.shields.io/badge/⭐_STAR_THIS_REPO-it_carried_your_GPA-FFD700?style=for-the-badge&labelColor=000000)
+![ARCHIVED](https://img.shields.io/badge/STATUS-ARCHIVED_🏛️-FF0080?style=for-the-badge&labelColor=000000)
+![GRADUATED](https://img.shields.io/badge/WE-MADE_IT_🎓-00FFFF?style=for-the-badge&labelColor=000000)
 
 </div>
