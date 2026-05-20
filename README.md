@@ -2,7 +2,7 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=header&text=vcetaoa&fontSize=48&fontColor=000000&fontAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=vcetaoa&fontSize=72&fontColor=00ff41&fontAlignY=55&desc=git%20clone%20survival.exe&descSize=18&descAlignY=75&descFontColor=aaffaa&animation=twinkling)
 
 # `git clone survival.exe`
 
@@ -138,6 +138,6 @@ that's enough. that was always enough.
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling)
 
 </div>
