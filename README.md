@@ -2,15 +2,15 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=vcetaoa&fontSize=72&fontColor=00ff41&fontAlignY=55&desc=git%20clone%20survival.exe&descSize=18&descAlignY=75&descFontColor=aaffaa&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,19,20,24&height=200&section=header&text=vcetaoa&fontSize=72&fontColor=ff6600&fontAlignY=55&desc=git%20clone%20survival.exe&descSize=18&descAlignY=75&descFontColor=ffaa55&animation=twinkling)
 
 # `git clone survival.exe`
 
 **A public repo that carried an entire batch through 2 years of engineering practicals.**
 
-![days](https://img.shields.io/badge/UPTIME-730_days-00ff41?style=flat-square&labelColor=0d1117)
-![caught](https://img.shields.io/badge/TIMES_CAUGHT-0-00ff41?style=flat-square&labelColor=0d1117)
-![exit](https://img.shields.io/badge/EXIT_CODE-0-00ff41?style=flat-square&labelColor=0d1117)
+![days](https://img.shields.io/badge/UPTIME-730_days-ff6600?style=flat-square&labelColor=0d1117)
+![caught](https://img.shields.io/badge/TIMES_CAUGHT-0-ff6600?style=flat-square&labelColor=0d1117)
+![exit](https://img.shields.io/badge/EXIT_CODE-0-ff6600?style=flat-square&labelColor=0d1117)
 ![status](https://img.shields.io/badge/STATUS-ARCHIVED-ff2020?style=flat-square&labelColor=0d1117)
 
 <br>
@@ -138,6 +138,6 @@ that's enough. that was always enough.
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,19,20,24&height=120&section=footer&animation=twinkling)
 
 </div>
